@@ -1,0 +1,8 @@
+
+Links
+https://github.com/jorgeacetozi/ebook-chat-app-spring-websocket-cassandra-redis-rabbitmq
+
+
+
+Books
+https://www.jorgeacetozi.com/books
