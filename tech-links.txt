@@ -1,7 +1,36 @@
 
-Links
+Projects
 https://github.com/jorgeacetozi/ebook-chat-app-spring-websocket-cassandra-redis-rabbitmq
 
+
+Algorithms
+https://aaronice.gitbooks.io/lintcode/content/
+
+
+System Design
+https://aaronice.gitbooks.io/system-design/content/system-design-problems.html
+http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+https://www.educative.io/courses/grokking-the-system-design-interview
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview
+https://n00tc0d3r.blogspot.com/?view=snapshot
+https://www.hackingnote.com/en/interview/system-design-interview-questions#data-model-design
+https://www.callicoder.com/
+https://codetiburon.com/blog/
+https://hub.packtpub.com/cassandra-design-patterns/
+https://coderwall.com/
+https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+https://qbox.io/tutorials
+https://blog.pramp.com/
+https://www.hackcampus.io/interview-guide/
+https://www.intermix.io/blog/14-data-pipelines-amazon-redshift/
+https://data-flair.training/blogs/
+https://www.mariogerard.com/interview-questions-for-a-technical-program-manager-tpm/
+https://www.softobiz.com/insights/
+https://walkingtree.tech/design-patterns-microservices/
+https://towardsdatascience.com/
+http://highscalability.com/all-time-favorites/
+https://www.hiredintech.com/classrooms/system-design/lesson/52
+http://blog.gainlo.co/index.php/category/system-design-interview-questions/
 
 
 Books
