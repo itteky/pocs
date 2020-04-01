@@ -31,7 +31,7 @@ https://towardsdatascience.com/
 http://highscalability.com/all-time-favorites/
 https://www.hiredintech.com/classrooms/system-design/lesson/52
 http://blog.gainlo.co/index.php/category/system-design-interview-questions/
-
+https://www.8bitmen.com/category/real-life-architectures/
 
 Books
 https://www.jorgeacetozi.com/books
