@@ -69,7 +69,7 @@ jbHlp
 https://prepory.com/resumemaker/
 https://interviewsby.ai/
 https://www.wonsulting.ai/coverletterai
-https://www.google.com/search?q=practice+interview+with+ai&ei=0FSRZK_UAvqIptQPpM-6sAg&oq=practice+inter+ai&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgYIABAHEB4yCAgAEAgQBxAeMggIABCKBRCGAzIICAAQigUQhgM6CggAEIoFELADEEM6BwgAEAMQsAM6CwgAEIoFEIYDELADOg4ILhAHEB4QxwEQ0QMQCjoMCC4QBxAeEMcBENEDOggIABAHEB4QCjocCC4QBxAeEMcBENEDEAoQlwUQ3AQQ3gQQ4AQYAToKCAAQigUQsQMQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CAgAEIoFEJECOgUIABCABDoICC4QsQMQgAQ6CwguEIAEELEDEOUEOgcIABCKBRBDOgcIABANEIAEOggIABAeEA0QDzoGCAAQCBAeOgYIABAeEA86BggAEAUQHkoECEEYAVCwCFinKGD0MmgCcAB4AIABa4gBzwqSAQQxNC4ymAEAoAEBwAEByAEE2gEGCAEQARgU&sclient=gws-wiz-serp
+https://www.google.com/
 https://mjoll.no/about
 https://foundr.ai/product/rec-less
 https://www.linkedin.com/pulse/10-cutting-edge-ai-tools-supercharge-your-job-search-ragu
@@ -84,12 +84,12 @@ https://crfm.stanford.edu/people.html
 
 https://zapier.com/blog/best-no-code-app-builder/
 https://medium.com/@stefan_d/starting-a-low-code-application-architecture-13170fcd6fc7
-https://emergingtalent.contentcontroller.com/ScormEngineInterface/dispatch/lti/ltiDispatch.html?studentId=b6db1572-0c18-4213-bf56-cc66f01108ed&studentName&redirectOnExitUrl=https%3A%2F%2Fawseducate.instructure.com%2Fcourses%2F905%2Fmodules&config=%7B%22dispatchVersion%22%3A%221%22%2C%22contentUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fbundle%2Fcontent%2F31628%2FrJkS15qOBsf14M1HT4WO1lrGkGHF%3Fltirolesecret%3D%26learnerid%3DLEARNER_ID%26fname%3DLEARNER_FNAME%26lname%3DLEARNER_LNAME%26pipeurl%3DPIPE_URL%26redirecturl%3DREDIRECT_URL_REGISTRATION_ARGUMENT%22%2C%22dispatchRoot%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2F%22%2C%22preLaunchConfigurationUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fconfig%2Fbundle%2Fcontent%2F31628%2FrJkS15qOBsf14M1HT4WO1lrGkGHF%22%7D&ltiOutcomeUrl=https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2FDispatchRequest.jsp%3FmethodName%3DAssignmentandGradeServices%26tenant%3D336d964b-be51-4a9a-9d42-50ac942f034e%26ltiOutcomeInfo%3D089bb2d6-eb25-4ce0-a6ef-178849bcc45e%26score%3D_SCORE_%26ltiState%3D_STATE_
+https://emergingtalent.contentcontroller.com/
 https://blog.kickresume.com/how-to-write-a-resume-objective/
 https://university.scylladb.com/courses/data-modeling/lessons/basic-data-modeling-2/topic/table-and-basic-concepts/
 https://www.interviewbit.com/blog/lambda-architecture/
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/#problem-the-subclass-explosion
-https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b50a554-ed4a-4219-a358-aa3cbeea1e70&ccId=19000101_000001&jobId=466245&source=CC2&lang=en_US
+https://workforcenow.adp.com/
 https://awsworkshop.io/categories/serverless/#
 https://skillbuilder.aws/search?page=1&trainingCategory=3
 https://explore.skillbuilder.aws/learn/signin
@@ -99,11 +99,10 @@ https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-wi
 https://levelup.gitconnected.com/python-features-that-you-will-miss-in-typescript-78ecc440b8bc
 https://www.bairesdev.com/blog/server-side-rendering-react/
 https://www.mongodb.com/docs/manual/core/read-preference-mechanics/
-https://support.microsoft.com/en-us/office/join-a-meeting-without-an-account-in-microsoft-teams-c6efc38f-4e03-4e79-b28f-e65a4c039508#:~:text=Go%20to%20the%20meeting%20invite,or%20Google%20Chrome%20both%20work.
 
 new fldr
 
-https://emergingtalent.contentcontroller.com/ScormEngineInterface/dispatch/lti/ltiDispatch.html?studentId=b6db1572-0c18-4213-bf56-cc66f01108ed&studentName&redirectOnExitUrl=https%3A%2F%2Fawseducate.instructure.com%2Fcourses%2F905%2Fmodules&config=%7B%22dispatchVersion%22%3A%221%22%2C%22contentUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fbundle%2Fcontent%2F31628%2FrJkS15qOBsf14M1HT4WO1lrGkGHF%3Fltirolesecret%3D%26learnerid%3DLEARNER_ID%26fname%3DLEARNER_FNAME%26lname%3DLEARNER_LNAME%26pipeurl%3DPIPE_URL%26redirecturl%3DREDIRECT_URL_REGISTRATION_ARGUMENT%22%2C%22dispatchRoot%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2F%22%2C%22preLaunchConfigurationUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fconfig%2Fbundle%2Fcontent%2F31628%2FrJkS15qOBsf14M1HT4WO1lrGkGHF%22%7D&ltiOutcomeUrl=https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2FDispatchRequest.jsp%3FmethodName%3DAssignmentandGradeServices%26tenant%3D336d964b-be51-4a9a-9d42-50ac942f034e%26ltiOutcomeInfo%3D089bb2d6-eb25-4ce0-a6ef-178849bcc45e%26score%3D_SCORE_%26ltiState%3D_STATE_
+https://emergingtalent.com
 https://blog.kickresume.com/how-to-write-a-resume-objective/
 https://university.scylladb.com/courses/data-modeling/lessons/basic-data-modeling-2/topic/keyspace/
 https://skillbuilder.aws/search?page=1&trainingCategory=3
@@ -324,8 +323,6 @@ https://www.hackerrank.com/challenges/array-and-simple-queries/forum
 https://www.linkedin.com/pulse/kafka-producer-overview-sylvester-daniel
 https://www.linkedin.com/pulse/kafka-technical-overview-sylvester-daniel
 https://refresh-wf.runmytests.com/application
-https://jobs.sap.com/job/Palo-Alto-Chief-Enterprise-Architect-Job-CA-94301/597013101/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed
-https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=200008493&tz=GMT-05:00&tzname=America/Chicago&src=DM-10101
 
 http://www.economy.com/dismal/
 http://www.economy.com/dismal/
