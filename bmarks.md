@@ -4,23 +4,37 @@ https://www.cbinsights.com/research/unicorn-startup-market-map/
 0720
 
 https://cloud.google.com/gcp/getting-started/#sample-projects
+
 https://go.qwiklabs.com/next-19-extended
+
 https://google.qwiklabs.com/quests/32?event=Your&utm_source=qwiklabs&utm_medium=lp&utm_campaign=nextext
+
 https://google.qwiklabs.com/quests/34
+
 https://www.coursera.org/specializations/gcp-data-machine-learning
+
 https://petuum.com/careers/
+
 https://boards.greenhouse.io/petuum/jobs/4216197002
+
 https://seismic.com/company/careers/job-listings/
+
 https://www.meetup.com/sfskillets/events/263152547/
+
 https://gitlab.com/BerniceChua/Whiteboarding_And_Algorithms_Workshop_-_Wednesday_Edition
+
 https://codeforces.com/top
+
 https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/tutorial/
+
 https://medium.com/systems-architectures/walking-the-microservices-path-towards-loose-coupling-few-pitfalls-4067bf5e497a
+
 https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538
 
 0831
 
 https://www.educative.io/
+
 https://runestone.academy/runestone/books/published/pythonds/BasicDS/toctree.html
 http://www.mariogerard.com/interview-questions-for-a-technical-program-manager-tpm/
 https://techdevguide.withgoogle.com/resources/compress-decompression/#!
